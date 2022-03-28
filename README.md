@@ -1,6 +1,6 @@
 # devops-netology
 
-- Будут проигнорированы:
+Будут проигнорированы:
 - Все файлы в любой папке с названием .terraform,
 - Все файлы с расширениями .tfstate, .tfvars, .tfvars.json
 - Файлы, содержащие в названии _override.tf или _override.tf.json,
